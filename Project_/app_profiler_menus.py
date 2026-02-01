@@ -36,11 +36,11 @@ for skill in skills:
 
 # ---------- EDUCATION ----------
 st.header("🎓 Education")
-st.write("""
-BSc(hons) Physics (UWC) - In progress
-BSc Physics (UWC) - Completed in 2025
+Education = [
+"BSc(hons) Physics (UWC) - In progress",
+"BSc Physics (UWC) - Completed in 2025"
 
-""")
+]
 
 # ---------- PROJECTS ----------
 st.header("📂 Projects")
@@ -81,6 +81,7 @@ st.write("🐙 GitHub: https://github.com/BonganiNgcongolo")
 st.divider()
 
 st.write("© 2026 [Bongani Ngcongolo] — Built with Streamlit")
+
 
 
 
