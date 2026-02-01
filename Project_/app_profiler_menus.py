@@ -6,7 +6,7 @@ import numpy as np
 st.set_page_config(page_title="My Digital Profile", page_icon="👤", layout="centered")
 
 # ---------- HEADER ----------
-st.title("👋 Hello, I'm [Your Name]")
+st.title("👋 Hello, I'm Bongani Ngcongolo")
 st.subheader("Physics Student | Data Analyst | Developer")
 
 st.write("""
@@ -53,7 +53,7 @@ There are no specific factors that the company has specified as their criteria i
 analyse, extract information, visualize trends and predict salaries.
 """)
 
-st.write("**Project 2:  product usage and user engagement evaluation")
+st.write("**Project 2:  product usage and user engagement evaluation**")
 st.write("""
 Conducted an end-to-end analysis of product usage and user engagement data to evaluate customer behavior, retention, and monetization patterns. 
 Cleaned and transformed messy event-level data, engineered time-based features, and handled missing values using group-level statistical 
@@ -81,5 +81,6 @@ st.write("🐙 GitHub: https://github.com/BonganiNgcongolo")
 st.divider()
 
 st.write("© 2026 [Bongani Ngcongolo] — Built with Streamlit")
+
 
 
