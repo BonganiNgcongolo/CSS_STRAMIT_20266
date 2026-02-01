@@ -18,9 +18,7 @@ st.divider()
 
 # ---------- ABOUT ME ----------
 st.header("📖 About Me")
-st.write("
-I am a BSc Physics Honours student interested in data science, programming, and renewable energy research.
-")
+st.write("I am a BSc Physics Honours student interested in data science, programming, and renewable energy research.")
 
 # ---------- SKILLS ----------
 st.header("🛠️ Skills")
@@ -76,3 +74,4 @@ st.write("🐙 GitHub: https://github.com/BonganiNgcongolo")
 st.divider()
 
 st.write("© 2026 [Bongani Ngcongolo] — Built with Streamlit")
+
