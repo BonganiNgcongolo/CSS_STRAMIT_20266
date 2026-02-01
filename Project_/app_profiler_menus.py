@@ -38,7 +38,7 @@ if menu == "Researcher Profile":
     st.sidebar.header("Profile Options")
 
     # Collect basic information
-    name = "Dr. Jane Doe test"
+    name = "Dr. Jane Doe testingsssssssssssssssssss"
     field = "Astrophysics"
     institution = "University of Science"
 
@@ -134,3 +134,4 @@ elif menu == "Contact":
     email = "jane.doe@example.com"
 
     st.write(f"You can reach me at {email}.")
+
