@@ -41,7 +41,8 @@ Education = [
 "BSc Physics (UWC) - Completed in 2025"
 
 ]
-
+for title in Education:
+    st.write(f"- {title}")
 # ---------- PROJECTS ----------
 st.header("📂 Projects")
 
@@ -81,6 +82,7 @@ st.write("🐙 GitHub: https://github.com/BonganiNgcongolo")
 st.divider()
 
 st.write("© 2026 [Bongani Ngcongolo] — Built with Streamlit")
+
 
 
 
